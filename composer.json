@@ -1,0 +1,11 @@
+{
+    "require": {
+        "yurunsoft/yurun-http": "^4.3",
+        "topthink/think-cache": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "bjjnts\\": "./bjjnts/"
+        }
+    }
+}
